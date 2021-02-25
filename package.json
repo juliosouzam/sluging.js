@@ -1,0 +1,20 @@
+{
+  "name": "sluging.js",
+  "version": "1.0.0",
+  "description": "A basic lib to create a slug",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliosouzam/sluging.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliosouzam/sluging.js/issues"
+  },
+  "homepage": "https://github.com/juliosouzam/sluging.js#readme",
+  "dependencies": {
+    "sanitize.js": "^1.0.2"
+  }
+}
