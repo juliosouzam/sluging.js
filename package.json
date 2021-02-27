@@ -1,7 +1,7 @@
 {
   "name": "sluging.js",
-  "version": "1.0.0",
-  "description": "A basic lib to create a slug",
+  "version": "1.0.1",
+  "description": "A lightweight lib to create a slug",
   "main": "index.js",
   "repository": {
     "type": "git",
